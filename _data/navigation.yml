@@ -17,8 +17,11 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Work and Research Experiences"
+    url: "/#-work-and-research-experiences"
+
+ # - title: "Honors and Awards"
+  #  url: "/#-honors-and-awards"
 
   - title: "Internships"
     url: "/#-internships"
