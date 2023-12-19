@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Elevator Pitch"
+  - title: "about"
     url: "/#about-me"
     
-  - title: "Work Currently Doing"
-    url: "/#-internships"
+  #- title: "Work Currently Doing"
+    #url: "/#-internships"
      
-  - title: "Education History"
-     url: "/#-Education-History"
+  #- title: "Education History"
+    # url: "/#-Education-History"
      
   - title: "News"
     url: "/#-news"
@@ -15,10 +15,19 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
-  - title: "Work & Research Experiences"
+  - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Learn More About Me"
+    #- title: "Work & Research Experiences"
+   # url: "/#-honors-and-awards"
+
+  - title: "Educations"
     url: "/#-educations"
+
+  - title: "Internships"
+    url: "/#-internships"
+
+   # - title: "Learn More About Me"
+    #url: "/#-educations"
 
  
