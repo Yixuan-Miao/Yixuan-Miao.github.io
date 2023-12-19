@@ -29,12 +29,11 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 <!-- > 📢📢📢 <font color=red>I am looking for a Ph.D. position (2024 Fall).</font> If you would like to discuss potential opportunities or learn more about my qualifications, please feel free to [contact me](mailto:zhufangqi.hitsz@gmail.com). 😊 -->
 <!-- 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
-# 🔥 Newsceshi
 
 # 🔥 News
-- *2023.10*: One paper is accepted by EMNLP 2023!🎉
-- *2023.05*: One paper is accepted by ACL Findings 2023! 🎉
-- *2022.11*: One paper is accepted by AAAI 2023! 🎉
+- *2023.10*: First circuit's paper is accepted by Microelectronics 2023!🎉
+- *2023.8*: Second circuit's tape out is successfully submitted!🎉
+- *2022.9*: First circuit's tape out is successfully submitted!🎉
 
 # 📝 Publications 
 
@@ -77,8 +76,8 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
 # 📖 Educations
-- *2021.09 - 2024.1 (expected)*, Master of Engineering in Computer Science and Technology, Department of Computer Science and Technology, Harbin Institute of Technology, Shenzhen (HITSZ)
-- *2017.09 - 2021.06*, Bachelor of Engineering in Software Engineering, Department of Computer Science, Wuhan University (WHU)
+- *2023.08 - 2024.5 (expected)*, Master of Science in Electronics, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore
+- *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC), Sichuan, China
 
 
 <!-- # 💬 Invited Talks
