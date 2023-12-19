@@ -35,6 +35,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.8*: Second circuit's tape out is successfully submitted!🎉
 - *2022.9*: First circuit's tape out is successfully submitted!🎉
 
+# 📖 Educations
+- *2023.08 - 2024.5 (expected)*, Master of Science in Electronics, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore
+- *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC), Sichuan, China
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/EMNLP2023.png' alt="sym" width="100%"></div></div>
@@ -75,9 +79,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* First-class Scholarship of Harbin Institute of Technology, Shenzhen
 - *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
-# 📖 Educations
-- *2023.08 - 2024.5 (expected)*, Master of Science in Electronics, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore
-- *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC), Sichuan, China
+
 
 
 <!-- # 💬 Invited Talks
