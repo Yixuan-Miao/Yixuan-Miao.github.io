@@ -6,10 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Fangqi Zhu"
-description              : "M.Eng. student @ HITSZ. <br/>
-                            Doing research @ 4Paradigm."
-repository               : "fangqi-Zhu/fangqi-Zhu.github.io"
+title                    : "Yixuan Miao"
+description              : "M.S. student @ NTU. <br/>
+                            Doing research @ Astar IME Singapore."
+repository               : "Yixuan-Miao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Fangqi Zhu <br/> 朱方琪"
+  name             : "Yixuan Miao <br/> 缪怡轩"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Harbin Institute of Technology, Shenzhen (HITSZ)"
-  location         : "Shenzhen, China"
+  bio              : "Integrated Circuits, Guitar, Travel, Cats and Dogs, Vegetable Gardening"
+  location         : "Lanzhou, Gansu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.tw/citations?hl=zh-CN&user=yio0974AAAAJ"
-  email            : "zhufangqi.hitsz@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=qAIgav0AAAAJ"
+  email            : "miao0045@e.ntu.edu.sg"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -38,15 +38,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fangqi-Zhu" # e.g., "github username"
+  github           : "Yixuan-Miao" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "miao-yixuan-074ba529a/?originalSubdomain=sg"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0002-3925-0798"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
