@@ -75,7 +75,7 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div>
 
-# 🎖 Honors and Awards
+
 - *2021.09* First-class Scholarship of Harbin Institute of Technology, Shenzhen
 - *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
@@ -86,7 +86,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+
 - *2023.04 - Present*, Research Intern, 4Paradigm, Shenzhen, China
 
     Mentor: [Dr. Yongqi Zhang](https://yzhangee.github.io/)
