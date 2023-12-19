@@ -22,7 +22,7 @@ redirect_from:
 I am currently a third-year M.Eng. student at [Harbin Institute of Technology, Shenzhen (HITSZ)](https://www.hitsz.edu.cn/index.html). And I will join The Hong Kong University of Science and Technology as a PhD student in 2024 fall in the Department of [Computer Science and Engineering (CSE)] (https://cse.hkust.edu.hk/). I am fortunate to be advised by supervised by Prof. [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) in [PEILab] (https://peilab.netlify.app/). -->
 
 
-I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), doing Analog & RF circuit design.
+I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), doing Analog\RF circuit design.
 
 My research interests are TRx, analog and mm-wave circuit design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
 
