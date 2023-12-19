@@ -8,7 +8,10 @@ main:
      
   #- title: "Education History"
     # url: "/#-Education-History"
-     
+          
+  - title: "Newsceshi"
+    url: "/#-newsceshi"
+    
   - title: "News"
     url: "/#-news"
 
