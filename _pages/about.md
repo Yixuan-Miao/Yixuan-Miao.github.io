@@ -4,7 +4,7 @@ title: ""
 excerpt: ""
 author_profile: true
 redirect_from: 
-  - /Elevator Pitch/
+  - /about/
   - /about.html
 ---
 
