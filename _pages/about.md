@@ -44,7 +44,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 - *2023.04 - 2023.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)
   
   Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
-  Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
+  Mentor: [Prof. Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second circuit</div><img src='images/secondcircuit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +57,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 <div class='paper-box-text' markdown="1">  
 - *2022.03 - 2022.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)  
   Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
-  Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
+  Mentor: [Prof. Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First circuit</div><img src='images/firstcircuit2.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -91,7 +91,7 @@ In my country, there's a phrase, [雅俗共赏](https://en.wiktionary.org/wiki/%
 
 
 # 😸 Moments in Life
-- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids, 🤣.
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids.(Kids' relationships are even more complicated than China-U.S. relations 🤣)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
