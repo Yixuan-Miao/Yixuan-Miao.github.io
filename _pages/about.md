@@ -45,7 +45,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   
   Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
   Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second circuit</div><img src='images/secondcircuit2.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second circuit</div><img src='images/secondcircuit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - *2022.09 - 2023.04*, Full-time Intern, [Chengdu Fastchip Microelectronics Co., ltd and Chengdu Metasilicon Intelligent Technology Co., Ltd, Chengdu, China](http://www.mtsilicon.com/)
