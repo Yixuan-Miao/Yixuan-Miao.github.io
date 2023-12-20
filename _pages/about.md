@@ -77,24 +77,24 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 # 💻 Intern and Research Experiences 
 - *2023.09 - Present*, Research Intern, [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime)
   
-    -Outcome: Tape out time is February 2024, using TSMC 28nm CMOS technology.
-    -Mentor: [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team)
+  Outcome: Tape out time is February 2024, using TSMC 28nm CMOS technology.<br>
+  Mentor: [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team)
   
 - *2023.04 - 2023.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
   
-    -Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.
-    -Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
+  Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
+  Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
 
 - *2022.09 - 2023.04*, Full-time Intern, Chengdu Fastchip Microelectronics Co., ltd, Chengdu, China
   
-    -Position: Digital IC Design Engineer
-    -Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.
-    -Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
+  Position: Digital IC Design Engineer<br>
+  Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.<br>
+  Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
   
 - *2022.03 - 2022.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
   
-    -Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.
-    -Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
+  Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
+  Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   
 # 💬 More about Me
 - My WeChat: 17748866479. 
