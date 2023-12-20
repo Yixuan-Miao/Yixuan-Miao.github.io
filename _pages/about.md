@@ -25,9 +25,9 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 
 
 # 🔥 News
-- *2023.10*: First circuit's paper is accepted by Microelectronics 2023!🎉
-- *2023.08*: Second circuit's tape out is successfully submitted!🎉
-- *2022.09*: First circuit's tape out is successfully submitted!🎉
+- *2023.10*: First circuit's paper is accepted by Microelectronics 2023! 🎉
+- *2023.08*: Second circuit's tape out is successfully submitted! 🎉
+- *2022.09*: First circuit's tape out is successfully submitted! 🎉
 
 # 📖 Educations
 - *2023.08 - 2024.05 (expected)*, Master of Science in Electronics, School of Electrical and Electronic Engineering, Nanyang Technological University (NTU), Singapore
@@ -90,10 +90,8 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   Position: Digital IC Design Engineer<br>
   Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.<br>
   Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
-
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital IC Design Intern</div><img src='images/WechatIMG109.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
+<div class='paper-box-text' markdown="1">  
 - *2022.03 - 2022.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
   
   Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
