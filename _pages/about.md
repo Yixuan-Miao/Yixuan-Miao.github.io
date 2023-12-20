@@ -91,7 +91,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.<br>
   Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
 
-  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/WechatIMG109.jpg' alt="sym" width="100%"></div></div>
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital IC Design Intern</div><img src='images/WechatIMG109.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 - *2022.03 - 2022.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
