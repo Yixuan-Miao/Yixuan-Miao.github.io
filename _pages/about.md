@@ -29,49 +29,10 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 - *2023.08*: Second circuit's tape out is successfully submitted! 🎉
 - *2022.09*: First circuit's tape out is successfully submitted! 🎉
 
+
 # 📖 Educations
 - *2023.08 - 2024.05 (expected)*, Master of Science in Electronics, [School of Electrical and Electronic Engineering, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/eee), Singapore
 - *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, [School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC)](https://sose.uestc.edu.cn/), Sichuan, China
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2023</div><img src='images/EMNLP2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning to Describe for Predicting Zero-shot Drug-Drug Interactions](https://aclanthology.org/2023.emnlp-main.918/)
-
-**Fangqi Zhu**, Yongqi Zhang, Lei Chen, Bing Qin, Ruifeng Xu
-
-**<font color=red>EMNLP 2023 (Oral Presentation) </font>** \| [[**Paper**]](https://aclanthology.org/2023.emnlp-main.918/) [[**Code**]](https://github.com/zhufq00/DDIs-Prediction) 
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2023</div><img src='images/ACL2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Diffusion Model for Event Skeleton Generation](https://aclanthology.org/2023.findings-acl.800/)
-
-**Fangqi Zhu**, Lin Zhang, Jun Gao, Bing Qin, Ruifeng Xu, Haiqin Yang
-
-**<font color=red>ACL Findings 2023 (Poster) </font>** \| [[**Paper**]](https://aclanthology.org/2023.findings-acl.800/)  [[**Code**]](https://github.com/zhufq00/EventSkeletonGeneration) [[**Poster**]](resources/DEGM_Poster.pdf) 
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/AAAI2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Generative Approach for Script Event Prediction via Contrastive Fine-Tuning](https://ojs.aaai.org/index.php/AAAI/article/view/26645)
-
-**Fangqi Zhu**, Jun Gao, Changlong Yu, Wei Wang, Chen Xu, Xin Mu, Min Yang, Ruifeng Xu
-
-**<font color=red>AAAI 2023 (Oral Presentation)  </font>** \| [[**Paper**]](https://ojs.aaai.org/index.php/AAAI/article/view/26645)  [[**Code**]](https://github.com/zhufq00/mcnc) [[**Poster**]](resources/SEP_Poster.pdf) 
-</div>
-</div>
-
-
-- *2022.9 - 2023.4* First-class Scholarship of Harbin Institute of Technology, Shenzhen
-- *2022.09* Second-class Scholarship of Harbin Institute of Technology, Shenzhen
 
 
 # 💻 Intern and Research Experiences 
@@ -84,6 +45,8 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   
   Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
   Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second circuit</div><img src='images/secondcircuit2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - *2022.09 - 2023.04*, Full-time Intern, [Chengdu Fastchip Microelectronics Co., ltd and Chengdu Metasilicon Intelligent Technology Co., Ltd, Chengdu, China](http://www.mtsilicon.com/)
  
@@ -95,7 +58,24 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 - *2022.03 - 2022.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)  
   Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
   Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
-  
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First circuit</div><img src='images/firstcircuit2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+# 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">First circuit</div><img src='images/firstcircuit.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A 110–170 GHz Wideband LNA Design Using the InP Technology for Terahertz Communication Applications](https://www.mdpi.com/2072-666X/14/10/1921)
+
+Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, Yaxin Zhang
+
+**<font color=red>Microelectronics 2023 </font>** \| [[**Paper**]](https://www.mdpi.com/2072-666X/14/10/1921)
+</div>
+</div>
+
+
 # 💬 More about Me
 - My WeChat: 17748866479. 
 - If you have any questions or suggestions, please contact me, thank you!
