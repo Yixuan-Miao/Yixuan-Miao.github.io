@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), doing Analog\RF circuit design.
 
-My research interests are TRx, analog and mm-wave circuit design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation.
+My research interests are TRx, analog and mm-wave circuit design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. （This is just a quick summary of my academic focus, skills, experiences, and achievements, as well as a brief insight into my personality. For more detailed information, please refer to my Curriculum Vitae (CV), Research Proposal (RP), Personal Statement (PS), and interview PowerPoint presentation）
 
 
 # 🔥 News
