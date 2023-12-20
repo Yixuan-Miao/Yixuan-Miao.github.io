@@ -91,8 +91,16 @@ There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life 
 
 
 # 😸 Life's Moments
-- *2023.01.24* Me and part of my family spending the 2023 Spring Festival(Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.)
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+https://www.bilibili.com/video/BV1Js41187R2/?spm_id_from=333.999.0.0&vd_source=2ea3adfcf37a4ce93c412a27398cad91
+  
+- *2017.01.31* I completed my first guitar and singing music video in my life, under the lens of my best friend Jiaming Zhang. Performing "Beautiful Birds" by Passenger, a song from my most beloved idol. I have a natural passion for music; I love singing and playing the guitar. However, I'm fully aware that my singing is not exactly gifted, so I embrace it merely as a hobby, like many others, and followed the path of education. What is life? Life is a game of time. In the blink of an eye, six years have passed. Sometimes I wonder if I can work hard enough to help my children resolve their financial issues early in life. Then, in a moment of reflection, ask themselves, "Who am I?"
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My first MV</div><img src='images/guitar1.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My first MV</div><img src='images/guitar2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 
