@@ -80,10 +80,10 @@ Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, 
 I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To create a blissful family of my own, to support each of my relatives as best as I can, enhancing their lives. And, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones. (Though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!).
 
 
-I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world. In my country, there's a phrase, "雅俗共赏", which means appreciating both the refined and the popular. So, besides all this, to be honest, I also have a liking for money and beauty (luckily, my girlfriend doesn't get mad when I happen to scroll past a pretty girl in TikTok - ha!).
+I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world. In my country, there's a phrase, ["雅俗共赏"](https://en.wiktionary.org/wiki/%E9%9B%85%E4%BF%97%E5%85%B1%E8%B3%9E), which means appreciating both the refined and the popular. So, besides all this, to be honest, I also have a liking for money and beauty (luckily, my girlfriend doesn't get mad when I happen to scroll past a pretty girl in TikTok - ha!).
 
 
-There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life long." It's about desiring wealth but being content, admiring beauty but knowing limits. Living uprightly, despising evil, and having compassion for all beings. That's me in a nutshell. I'm Yixuan Miao.
+There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life long." I believe that I am desiring wealth but being content, admiring beauty but knowing limits. Living uprightly, despising evil, and having compassion for all beings. That's me in a nutshell, I'm Yixuan Miao.
 
 
 - My WeChat: 17748866479. 
@@ -91,6 +91,8 @@ There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life 
 
 
 # 😸 Life's Moments
-
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival(Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 
