@@ -3,11 +3,6 @@ main:
   - title: "Elevator Pitch"
     url: "/#about-me"
     
-
-     
-  #- title: "Education History"
-    # url: "/#-Education-History"
-    
   - title: "News"
     url: "/#-news"
     
@@ -20,7 +15,10 @@ main:
   - title: "Intern and Research Experiences"
     url: "/#-intern-and-research-experiences"
 
- # - title: "Honors and Awards"
+  - title: "More about Me"
+    url: "/#-more-about-me"
+
+  # - title: "Honors and Awards"
   #  url: "/#-honors-and-awards"
 
  # - title: "Internships"
@@ -32,7 +30,3 @@ main:
 #  - title: "Work and Research Experiences"
   #  url: "/#-work-and-research-experiences"
 
-  - title: "More about Me"
-    url: "/#-more-about-me"
-
- 
