@@ -31,7 +31,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 
 # 📖 Educations
 - *2023.08 - 2024.05 (expected)*, Master of Science in Electronics, [School of Electrical and Electronic Engineering, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/eee), Singapore
-- *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, [School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC)]（https://sose.uestc.edu.cn/）, Sichuan, China
+- *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, [School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC)](https://sose.uestc.edu.cn/), Sichuan, China
 
 # 📝 Publications 
 
