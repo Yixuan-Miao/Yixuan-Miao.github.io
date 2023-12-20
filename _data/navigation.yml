@@ -14,9 +14,12 @@ main:
 
   - title: "Intern and Research Experiences"
     url: "/#-intern-and-research-experiences"
-
+  
   - title: "More about Me"
     url: "/#-more-about-me"
+
+  - title: "Life's Moments"
+    url: "/#-life's-moments"
 
   # - title: "Honors and Awards"
   #  url: "/#-honors-and-awards"
