@@ -71,7 +71,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
 
 Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, Yaxin Zhang
 
-**<font color=red>Microelectronics 2023 </font>** \| [[**Paper**]](https://www.mdpi.com/2072-666X/14/10/1921)
+**<font color=red>Microelectronics 2023 </font>** \| [[**Journal**]](https://www.mdpi.com/2072-666X/14/10/1921)
 </div>
 </div>
 
