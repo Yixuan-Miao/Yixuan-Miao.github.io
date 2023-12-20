@@ -80,20 +80,19 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   Outcome: Tape out time is February 2024, using TSMC 28nm CMOS technology.<br>
   Mentor: [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team)
   
-- *2023.04 - 2023.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
+- *2023.04 - 2023.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China]([https://www.a-star.edu.sg/ime](https://www.ese.uestc.edu.cn/))
   
   Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
   Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
 
-- *2022.09 - 2023.04*, Full-time Intern, Chengdu Fastchip Microelectronics Co., ltd, Chengdu, China
-  
+- *2022.09 - 2023.04*, Full-time Intern, [Chengdu Fastchip Microelectronics Co., ltd and Chengdu Metasilicon Intelligent Technology Co., Ltd., Chengdu, China](http://www.mtsilicon.com/)
+ 
   Position: Digital IC Design Engineer<br>
   Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.<br>
   Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital IC Design Intern</div><img src='images/WechatIMG109.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
-- *2022.03 - 2022.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
-  
+- *2022.03 - 2022.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China]([https://www.a-star.edu.sg/ime](https://www.ese.uestc.edu.cn/))  
   Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
   Mentor: [Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   
