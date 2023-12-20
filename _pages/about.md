@@ -89,7 +89,7 @@ My research interests are TRx, analog and mm-wave circuit design. If you are int
   
     Position: Digital IC Design Engineer
     Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.
-    Mentor: [Dehai Feng] & [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
+    Mentor: Dehai Feng and [Lei Ye](https://www.linkedin.com/in/%E9%9B%B7-%E5%8F%B6-6a942aa9/?originalSubdomain=cn)
   
 - *2022.03 - 2022.09*, Research Intern, School of Electronic Science and Engineering, UESTC, Chengdu, China
   
