@@ -127,13 +127,7 @@ defaults:
     values:
       layout: default
       author_profile: true
-    # _more-about-me
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: default
-      author_profile: true
+
 
 
 # Sass/SCSS
