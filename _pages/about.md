@@ -21,7 +21,7 @@ redirect_from:
 
 I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105) and [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), doing Analog\RF circuit design.
 
-My research interests are TRx, analog and mm-wave circuit design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. （This is just a quick summary of my academic focus, skills, experiences, and achievements, as well as a brief insight into my personality. For more detailed information, please refer to my Curriculum Vitae (CV), Research Proposal (RP), Personal Statement (PS), and interview PowerPoint presentation）
+My research interests are TRx, analog and mm-wave circuit design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. （This is just a quick summary of my academic focus, skills, experiences, and achievements, as well as a brief insight into my personality. For more detailed information, please refer to my Curriculum Vitae (CV), Research Proposal (RP), Personal Statement (PS), and Interview PowerPoint Presentation）
 
 
 # 🔥 News
@@ -77,21 +77,21 @@ Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, 
 
 
 # 💬 More about Me
-I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To support each of my relatives as best as I can, enhancing their lives; To create a blissful family of my own, and, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones. (Though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!).
+I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To support each of my relatives as best as I can, enhancing their lives; To create a blissful family of my own, and, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones (though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!).
 
 
 I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world. 
 
 
-In my country, there's a phrase, [雅俗共赏](https://en.wiktionary.org/wiki/%E9%9B%85%E4%BF%97%E5%85%B1%E8%B3%9E), which means appreciating both the refined and the popular. So, besides all this, to be honest, I also have a liking for money and beauty (luckily, my girlfriend doesn't get mad when I scroll past pretty girls in TikTok 😄). There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life long." I believe that I am desiring wealth but being content, admiring beauty but knowing limits. Living uprightly, despising evil, and having compassion for all beings. That's me in a nutshell.
+In my country, there's a phrase, [雅俗共赏](https://en.wiktionary.org/wiki/%E9%9B%85%E4%BF%97%E5%85%B1%E8%B3%9E), which means appreciating both the refined and the popular. So, besides all this, to be honest, I also have a liking for money and beauty (luckily, my girlfriend doesn't get mad when I scroll past pretty girls in TikTok, 😄). There's an old saying, "Greedy for wealth, fond of beauty, yet upright all life long." I believe that I am desiring wealth but being content, admiring beauty but knowing limits. Living uprightly, despising evil, and having compassion for all beings. That's me in a nutshell.
 
 
 - My WeChat: 17748866479. 
 - If you have any questions or suggestions, please contact me, thank you! Or, if you're looking to make a friend, I'm extremely open to that!
 
 
-# 😸 Moments in Life
-- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids.(Kids' relationships are even more complicated than China-U.S. relations 🤣)
+# 😸 Life‘s Moments
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids. (Kids' relationships are even more complicated than China-U.S. relations, 🤣.)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
