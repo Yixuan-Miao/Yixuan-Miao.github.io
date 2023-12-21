@@ -91,7 +91,7 @@ In my country, there's a phrase, [雅俗共赏](https://en.wiktionary.org/wiki/%
 
 
 # 😸 Life‘s Moments
-- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids. (Kids' relationships are even more complicated than China-U.S. relations, 🤣.)
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids (kids' relationships are even more complicated than China-U.S. relations, 🤣).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
