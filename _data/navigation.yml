@@ -16,7 +16,7 @@ main:
     url: "/#-publications"
   
   - title: "More about Me"
-    url: "/#-more-about-me"
+    url: "/-more-about-me"
 
   - title: "Moments in Life"
     url: "/#-moments-in-life"
