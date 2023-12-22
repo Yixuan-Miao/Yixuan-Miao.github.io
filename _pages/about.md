@@ -77,7 +77,7 @@ Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, 
 
 
 # 💬 More about Me
-I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To support each of my relatives as best as I can, enhancing their lives; To create a blissful family of my own, and, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones (though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!).
+I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To support each of my relatives as best as I can, enhancing their lives; To create a blissful family of my own, and, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones (though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!). 
 
 
 I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world. 
@@ -91,7 +91,7 @@ In my country, there's a phrase, [雅俗共赏](https://en.wiktionary.org/wiki/%
 
 
 # 😸 Life's Moments
-- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids (kids' relationships are even more complicated than China-U.S. relations, 🤣).
+- *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids (kids' relationships are even more complicated than China-U.S. relations, 🤣). Interestingly, I am a person who is extremely unemotional. My actions are completely unaffected by emotions and are entirely rational. For me, emotions are something I can easily pick up and let go of, just as simple as lifting and setting down a kitten - I only experience the beautiful parts of love.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
