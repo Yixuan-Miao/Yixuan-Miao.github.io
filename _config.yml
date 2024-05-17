@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Yixuan Miao"
 description              : "M.S. std @ NTU <br/>
-                            Now doing research @ Astar IME Singapore"
+                            Student Intern @ A*star IME Singapore"
 repository               : "Yixuan-Miao.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yixuan Miao <br/> 缪怡轩"
-  avatar           : "images/profilephoto.jpg"
+  avatar           : "images/myphoto.jpg"
   bio              : "Integrated Circuits, Guitar, Vegetable Gardening"
   location         : "Lanzhou, Gansu, China"
   employer         :
