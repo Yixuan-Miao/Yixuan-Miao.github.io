@@ -19,9 +19,9 @@ redirect_from:
 
 
 
-I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Dr. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team) and [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105), doing Cryo Analog circuit design.
+I am currently a graduate student at the [School of Electrical and Electronic Engineering, Nanyang Technological University, Singapore](https://www.ntu.edu.sg/eee). Now working at [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime). I am privileged to have the guidance and mentorship of [Dr. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Mr. Sim Chan Kuen](https://www.a-star.edu.sg/qinc/about-qinc/our-team) and [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105), doing cryo analog circuit design.
 
-My research interests is quantum related cryo TRx design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. （This is just a quick summary of my academic focus, skills, experiences, and achievements, as well as a brief insight into my personality. For more detailed information, please refer to my Curriculum Vitae (CV), Research Proposal (RP), Personal Statement (PS), and Interview PowerPoint Presentation）
+My research interests is quantum related cryo/low power TRx design. If you are interested in collaborating, please contact me. I'm open to any form of cooperation. （This is just a quick summary of my academic focus, skills, experiences, and achievements, as well as a brief insight into my personality. For more detailed information, please refer to my Curriculum Vitae (CV), Research Proposal (RP), Personal Statement (PS), and Interview PowerPoint Presentation）
 
 
 # 🔥 News
@@ -40,7 +40,7 @@ My research interests is quantum related cryo TRx design. If you are interested 
 - *2023.09 - Present*, Research Intern, [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime)
   
   Outcome: Successfully tape out. High Fidelity Control of Superconducting and Si Qubit Based on 28nm CMOS.<br>
-  Mentor: [Dr. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), Mr. Sim Chan Kuen, [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105)
+  Mentor: [Dr. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Mr. Sim Chan Kuen](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third circuit</div><img src='images/thirdcircuit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
@@ -81,7 +81,7 @@ Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, 
 
 
 # 💬 More about Me
-I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. My passions include playing the guitar and traveling. My dream? To support each of my relatives as best as I can, enhancing their lives; To create a blissful family of my own, and, if fortune allows, to have a big dog, a bunch of kittens, and even a little garden where I can grow veggies to share with my loved ones (though in China, that's a bit of a stretch, so for now, I'm content with gardening in video games - ha!). 
+I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. 
 
 
 I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world.
