@@ -81,7 +81,7 @@ Lian Hu, Ziqiang Yang*, Qingfeng Li, **Yixuan Miao**, Xiaofeng Lu, Xuechun Sun, 
 
 
 # 💬 More about Me
-I'm a soft-hearted person at my core. I cherish my family, my friends, and of course, myself. I'm in love with my life, this world, and everything in it. 
+I'm a soft-hearted person at my core. I cherish my family, my friends, even everyone i met and of course, myself. I'm in love with my life, this world, and everything in it. 
 
 
 I find reading people fascinating and enjoy deep conversations, trying to understand the diverse ways people think. Consciousness, to me, is the most vibrant thing in the world.
