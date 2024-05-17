@@ -41,6 +41,8 @@ My research interests is quantum related cryo TRx design. If you are interested 
   
   Outcome: Successfully tape out. High Fidelity Control of Superconducting and Si Qubit Based on 28nm CMOS.<br>
   Mentor: [Do. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105)
+  <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third circuit</div><img src='images/thirdcircuit.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
   
 - *2023.04 - 2023.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)
   
@@ -90,13 +92,15 @@ I find reading people fascinating and enjoy deep conversations, trying to unders
 
 
 # 😸 Life's Moments
+- *2017.01.31* I completed my first [guitar and singing music video](https://www.bilibili.com/video/BV1Js41187R2/?spm_id_from=333.999.0.0&vd_source=2ea3adfcf37a4ce93c412a27398cad91) in my life, under the lens of my best friend Jiaming Zhang. Performing ["Beautiful Birds" by Passenger](https://www.youtube.com/watch?v=M2RHLZQbZCU), a song from my most beloved idol. I have a natural passion for music; I love singing and playing the guitar. However, I'm fully aware that my singing is not exactly gifted, so I embrace it merely as a hobby, like many others, and followed the path of education. Even now, when I watch this video, I feel quite embarrassed; the singing is quite off-key and performed too shyly, completely unlike my usual self. But regardless, this video is truly precious to me. It represents a very important moment in my life. What is life? Life is a game of time. In the blink of an eye, six years have passed. Sometimes I wonder if I can work hard enough to help my children resolve their financial issues early in life.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My first MV 2017</div><img src='images/guitar2.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - *2023.01.24* Me and part of my family spending the 2023 Spring Festival. (Thanks to my grandmother, who had five children including my mother, our family is quite large – nearly twenty people. Ha Ha.) Why are there only these few people here? LOL, the others might be busy playing mahjong, wrapping dumplings, setting off firecrackers, tossing dice, or endlessly adjudicating the never-ending disputes among the kids (kids' relationships are even more complicated than China-U.S. relations, 🤣). Interestingly, I am a person who is extremely unemotional. My actions are completely unaffected by emotions and are entirely rational. For me, emotions are something I can easily pick up and let go of, just as simple as lifting and setting down a kitten - I only experience the beautiful parts of love.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Spring Festival 2023</div><img src='images/spring.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *2017.01.31* I completed my first [guitar and singing music video](https://www.bilibili.com/video/BV1Js41187R2/?spm_id_from=333.999.0.0&vd_source=2ea3adfcf37a4ce93c412a27398cad91) in my life, under the lens of my best friend Jiaming Zhang. Performing ["Beautiful Birds" by Passenger](https://www.youtube.com/watch?v=M2RHLZQbZCU), a song from my most beloved idol. I have a natural passion for music; I love singing and playing the guitar. However, I'm fully aware that my singing is not exactly gifted, so I embrace it merely as a hobby, like many others, and followed the path of education. Even now, when I watch this video, I feel quite embarrassed; the singing is quite off-key and performed too shyly, completely unlike my usual self. But regardless, this video is truly precious to me. It represents a very important moment in my life. What is life? Life is a game of time. In the blink of an eye, six years have passed. Sometimes I wonder if I can work hard enough to help my children resolve their financial issues early in life.
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">My first MV 2017</div><img src='images/guitar2.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 
 
 
