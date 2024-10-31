@@ -32,26 +32,26 @@ My research interests is quantum related cryo/low power TRx design. If you are i
 
 
 # 📖 Educations
-- *2023.08 - 2024.09 (expected)*, Master of Science in Electronics, [School of Electrical and Electronic Engineering, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/eee), Singapore
+- *2023.08 - 2025.06 (expected)*, Master of Science in Electronics, [School of Electrical and Electronic Engineering, Nanyang Technological University (NTU)](https://www.ntu.edu.sg/eee), Singapore
 - *2019.09 - 2023.07*, Bachelor of Engineering in Information Engineering, [School of Optoelectronic Science and Engineering, University of Electronic Science and Technology of China (UESTC)](https://sose.uestc.edu.cn/), Sichuan, China
 
 
 # 💻 Intern and Research Experiences 
-- *2023.09 - Present*, Research Intern, [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime)
+- *2023.08 - Present*, Research Intern, [Institute of Microelectronics, Agency for Science Technology and Research (A*STAR), Singapore](https://www.a-star.edu.sg/ime)
   
   Outcome: Successfully tape out. High Fidelity Control of Superconducting and Si Qubit Based on 28nm CMOS.<br>
   Mentor: [Dr. Do Anh Tuan](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Mr. Sim Chan Kuen](https://www.a-star.edu.sg/qinc/about-qinc/our-team), [Prof. Goh Wang Ling](https://dr.ntu.edu.sg/cris/rp/rp01105)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Third circuit</div><img src='images/thirdcircuit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-- *2023.04 - 2023.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)
+- *2023.03 - 2023.08*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)
   
   Outcome: Successfully tape out. 140 GHz Phased Array RF Transceiver Chip Design Based on 130 nm SiGe BiCMOS.<br>
   Mentor: [Prof. Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Second circuit</div><img src='images/secondcircuit.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- *2022.09 - 2023.04*, Full-time Paid Intern, [Chengdu Fastchip Microelectronics Co., ltd and Chengdu Metasilicon Intelligent Technology Co., Ltd, Chengdu, China](http://www.mtsilicon.com/)
+- *2022.10 - 2023.03*, Full-time Paid Intern, [Chengdu Fastchip Microelectronics Co., ltd and Chengdu Metasilicon Intelligent Technology Co., Ltd, Chengdu, China](http://www.mtsilicon.com/)
  
   Position: Digital IC Design Engineer<br>
   Outcome: Fully completed all the front-end design for a SEM, meeting the commercial requirements.<br>
@@ -59,7 +59,7 @@ My research interests is quantum related cryo/low power TRx design. If you are i
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Digital IC Design Intern</div><img src='images/WechatIMG109.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">  
   
-- *2022.03 - 2022.09*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)  
+- *2022.03 - 2022.10*, Research Intern, [School of Electronic Science and Engineering, UESTC, Chengdu, China](https://www.ese.uestc.edu.cn/)  
   Outcome: Successfully tape out. 110-170 GHz Wideband LNA Design Based on InP Technology.<br>
   Mentor: [Prof. Ziqiang Yang](https://cq.uestc.edu.cn/info/1114/1428.htm)
   <div class='paper-box'><div class='paper-box-image'><div><div class="badge">First circuit</div><img src='images/firstcircuit2.jpg' alt="sym" width="100%"></div></div>
